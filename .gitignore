@@ -23,4 +23,14 @@
 hs_err_pid*
 
 # IntelliJ files
-.idea
+.idea/
+*.iml
+*.iws
+
+# Node manager for Serverless Framework
+.node-version
+
+# Maven
+log/
+target/
+
